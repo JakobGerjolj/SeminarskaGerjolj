@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<ArrayOfPes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Pes>
+    <ime>Pika</ime>
+    <pasma>Maltežan</pasma>
+    <starost>5</starost>
+  </Pes>
+  <Pes>
+    <ime>Toni</ime>
+    <pasma>Zlati prenasalec</pasma>
+    <starost>12</starost>
+  </Pes>
+  <Pes>
+    <ime>Leni</ime>
+    <pasma>Setlantski ovcar</pasma>
+    <starost>7</starost>
+  </Pes>
+  <Pes>
+    <ime>Kiriko</ime>
+    <pasma>Zlati prenasalec</pasma>
+    <starost>12</starost>
+  </Pes>
+  <Pes>
+    <ime>Martin</ime>
+    <pasma>Zlati prenasalec</pasma>
+    <starost>15</starost>
+  </Pes>
+  <Pes>
+    <ime>Cincin</ime>
+    <pasma>Zlati prenasalec</pasma>
+    <starost>15</starost>
+  </Pes>
+  <Pes>
+    <ime>Ana</ime>
+    <pasma>Konjiski pes</pasma>
+    <starost>12</starost>
+  </Pes>
+  <Pes>
+    <ime>Bill</ime>
+    <pasma>Mesanec</pasma>
+    <starost>12</starost>
+  </Pes>
+  <Pes>
+    <ime>Kansi</ime>
+    <pasma>Mesanec</pasma>
+    <starost>11</starost>
+  </Pes>
+  <Pes>
+    <ime>Henri</ime>
+    <pasma>Labrador</pasma>
+    <starost>6</starost>
+  </Pes>
+  <Pes>
+    <ime>Zilo</ime>
+    <pasma>Chivava</pasma>
+    <starost>8</starost>
+  </Pes>
+  <Pes>
+    <ime>Bile</ime>
+    <pasma>Tigrasti konj</pasma>
+    <starost>14</starost>
+  </Pes>
+  <Pes>
+    <ime>Zenja</ime>
+    <pasma>Tigrasti konj</pasma>
+    <starost>17</starost>
+  </Pes>
+  <Pes>
+    <ime>Vanja</ime>
+    <pasma>Kitajski macek</pasma>
+    <starost>8</starost>
+  </Pes>
+  <Pes>
+    <ime>Jakob</ime>
+    <pasma>Zlati prenasalec</pasma>
+    <starost>14</starost>
+  </Pes>
+  <Pes>
+    <ime>Tonja</ime>
+    <pasma>Poljski mravljinec</pasma>
+    <starost>12</starost>
+  </Pes>
+  <Pes>
+    <ime>Luka</ime>
+    <pasma>Maltazan</pasma>
+    <starost>9</starost>
+  </Pes>
+  <Pes>
+    <ime>Miga</ime>
+    <pasma>Maltazan</pasma>
+    <starost>16</starost>
+  </Pes>
+  <Pes>
+    <ime>Mojster</ime>
+    <pasma>Zlati prenasalec</pasma>
+    <starost>15</starost>
+  </Pes>
+  <Pes>
+    <ime>Nina</ime>
+    <pasma>Zlati prenasalec</pasma>
+    <starost>18</starost>
+  </Pes>
+</ArrayOfPes>

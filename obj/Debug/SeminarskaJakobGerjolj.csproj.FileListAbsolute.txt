@@ -1,0 +1,8 @@
+C:\Users\jakag\source\repos\SeminarskaJakobGerjolj\SeminarskaJakobGerjolj\bin\Debug\SeminarskaJakobGerjolj.exe.config
+C:\Users\jakag\source\repos\SeminarskaJakobGerjolj\SeminarskaJakobGerjolj\bin\Debug\SeminarskaJakobGerjolj.exe
+C:\Users\jakag\source\repos\SeminarskaJakobGerjolj\SeminarskaJakobGerjolj\bin\Debug\SeminarskaJakobGerjolj.pdb
+C:\Users\jakag\source\repos\SeminarskaJakobGerjolj\SeminarskaJakobGerjolj\obj\Debug\SeminarskaJakobGerjolj.csproj.AssemblyReference.cache
+C:\Users\jakag\source\repos\SeminarskaJakobGerjolj\SeminarskaJakobGerjolj\obj\Debug\SeminarskaJakobGerjolj.csproj.SuggestedBindingRedirects.cache
+C:\Users\jakag\source\repos\SeminarskaJakobGerjolj\SeminarskaJakobGerjolj\obj\Debug\SeminarskaJakobGerjolj.csproj.CoreCompileInputs.cache
+C:\Users\jakag\source\repos\SeminarskaJakobGerjolj\SeminarskaJakobGerjolj\obj\Debug\SeminarskaJakobGerjolj.exe
+C:\Users\jakag\source\repos\SeminarskaJakobGerjolj\SeminarskaJakobGerjolj\obj\Debug\SeminarskaJakobGerjolj.pdb
